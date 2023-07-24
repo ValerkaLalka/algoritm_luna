@@ -48,10 +48,6 @@ int main() {
 				}
 				p++;
 			}
-			/*else{
-				chet[p] = num[i];
-				p++;
-			}*/
 		}
 	}
 	else{
